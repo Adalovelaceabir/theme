@@ -1,0 +1,14 @@
+/*
+Theme Name: NewsPortal
+Theme URI: https://yourdomain.com/newsportal
+Author: Your Name
+Author URI: https://yourdomain.com
+Description: A modern, responsive news portal theme for WordPress.
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: newsportal
+*/
+
+/* Import your main styles from assets/css */
+@import url('assets/css/main.css');
